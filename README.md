@@ -71,5 +71,5 @@ All these packages (except Python) are present in the Requirements.txt file.
 6. Play with the App.
 ## Useful Links
 
-- [Deployed Website]("https://navjeetkohli-predictify-microsoft-engage-app-p3bwk1.streamlit.app/")
+- [Deployed Website](https://navjeetkohli-predictify-microsoft-engage-app-p3bwk1.streamlit.app/)
 - [Demo Video](link)
